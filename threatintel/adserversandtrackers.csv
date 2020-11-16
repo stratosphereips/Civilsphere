@@ -8,3 +8,4 @@ domain,yoc-performance.com,exodus::tracker::https://etip.exodus-privacy.eu.org/t
 domain,yoc.com,exodus::tracker::https://etip.exodus-privacy.eu.org/trackers/cddf007e-f28d-440e-8b4b-146817be93f9/,2020/11/14
 domain,casalemedia.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/casalemedia.com,2020/11/14
 domain,aax.amazon-adsystem.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/aax.amazon-adsystem.com,2020/11/14
+domain,control.kochava.com,trackeranalytics::https://github.com/YalePrivacyLab/tracker-profiles/blob/master/trackers/Kochava.md
