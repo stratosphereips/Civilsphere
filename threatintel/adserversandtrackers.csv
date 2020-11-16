@@ -9,3 +9,8 @@ domain,yoc.com,exodus::tracker::https://etip.exodus-privacy.eu.org/trackers/cddf
 domain,casalemedia.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/casalemedia.com,2020/11/14
 domain,aax.amazon-adsystem.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/aax.amazon-adsystem.com,2020/11/14
 domain,control.kochava.com,trackeranalytics::https://github.com/YalePrivacyLab/tracker-profiles/blob/master/trackers/Kochava.md
+domain,contextual.media.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/contextual.media.net
+domain,cslogger.media.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/cslogger.media.net
+domain,cs.media.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/cs.media.net
+domain,hblg.media.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/hblg.media.net
+domain,hbx.media.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/hbx.media.net
