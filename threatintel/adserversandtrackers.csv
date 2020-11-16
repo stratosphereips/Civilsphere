@@ -15,3 +15,7 @@ domain,cs.media.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-resul
 domain,hblg.media.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/hblg.media.net
 domain,hbx.media.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/hbx.media.net
 domain,secure.adnxs.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/secure.adnxs.com
+domain,364bf52c.akstat.io,tracker::https://sitereview.bluecoat.com/#/lookup-result/364bf52c.akstat.io
+domain,36d71176.akstat.io,tracker::https://sitereview.bluecoat.com/#/lookup-result/36d71176.akstat.io
+domain,684dd30d.akstat.io,tracker::https://sitereview.bluecoat.com/#/lookup-result/684dd30d.akstat.io
+domain,685d5b1b.akstat.io,tracker::https://sitereview.bluecoat.com/#/lookup-result/685d5b1b.akstat.io
