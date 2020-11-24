@@ -35,3 +35,4 @@ domain,req.startappservice.com,exodus::tracker::https://reports.exodus-privacy.e
 domain,soda.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
 domain,va.origin.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
 domain,bat.bing.com,microsoft::tracker::https://answers.microsoft.com/en-us/ie/forum/ie11-iewindows_10/batbingcom/97cd7958-6f79-455f-926c-72580d1e35d8
+domain,ing-district.clicktale.net,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/ing-district.clicktale.net
