@@ -21,3 +21,16 @@ domain,684dd30d.akstat.io,tracker::https://sitereview.bluecoat.com/#/lookup-resu
 domain,685d5b1b.akstat.io,tracker::https://sitereview.bluecoat.com/#/lookup-result/685d5b1b.akstat.io
 domain,mcdp-nydc1.outbrain.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/mcdp-nydc1.outbrain.com
 domain,cbsdfp5832910442.s.moatpixel.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/cbsdfp5832910442.s.moatpixel.com
+domain,startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,images.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,dts.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,c2i.startappnetwork.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,c2s.startappnetwork.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,click.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,events.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,imp.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,info.static.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,init.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,req.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,soda.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
+domain,va.origin.startappservice.com,exodus::tracker::https://reports.exodus-privacy.eu.org/en/trackers/195/
