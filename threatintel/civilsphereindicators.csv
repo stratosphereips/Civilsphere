@@ -7,8 +7,8 @@
 domain,gcloud.zoolz.com,mobile::insecure::https://play.google.com/store/apps/details?id=com.genie9.gcloudbackup,2020/11/14
 domain,blog.zoolz.com,mobile::insecure::https://play.google.com/store/apps/details?id=com.genie9.gcloudbackup,2020/11/14
 domain,www.zoolz.com,mobile::insecure::https://play.google.com/store/apps/details?id=com.genie9.gcloudbackup,2020/11/14
-domain,ovca21.mipcm.com,mobile::surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca
-domain,ovca18.mipcm.com,mobile::surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca
-domain,www.mipcm.com,mobile:surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca
-domain,mipcm.com,mobile:surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca
-domain,us12.mipcm.com,mobile:surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca
+domain,ovca21.mipcm.com,mobile::surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca,
+domain,ovca18.mipcm.com,mobile::surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca,
+domain,www.mipcm.com,mobile:surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca,
+domain,mipcm.com,mobile:surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca,
+domain,us12.mipcm.com,mobile:surveillance::https://play.google.com/store/apps/details?id=com.mining.app.mipca,
