@@ -44,3 +44,5 @@ domain,uipglob.semasio.net,tracker::https://www.semasio.com/,
 domain,uip.semasio.net,tracker::https://www.semasio.com/,
 domain,semasio.net,tracker::https://www.semasio.com/,
 domain,track.gpsecureads.com,tracker::https://sitereview.bluecoat.com/#/lookup-result/track.gpsecureads.com,
+domain,bcp.crwdcntrl.net,adstracker::https://sitereview.bluecoat.com/#/lookup-result/crwdcntrl.net,2020/11/30
+domain,sync.crwdcntrl.net,adstracker::https://sitereview.bluecoat.com/#/lookup-result/crwdcntrl.net,2020/11/30
