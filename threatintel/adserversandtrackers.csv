@@ -48,3 +48,4 @@ domain,bcp.crwdcntrl.net,adstracker::https://sitereview.bluecoat.com/#/lookup-re
 domain,sync.crwdcntrl.net,adstracker::https://sitereview.bluecoat.com/#/lookup-result/crwdcntrl.net,2020/11/30
 domain,ad.crwdcntrl.net,adstracker::https://sitereview.bluecoat.com/#/lookup-result/ad.crwdcntrl.net,2020/11/30
 domain,ib.adnxs.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/ib.adnxs.com,2020/11/30
+domain,ib.anycast.adnxs.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/ib.anycast.adnxs.com,2020/11/30
