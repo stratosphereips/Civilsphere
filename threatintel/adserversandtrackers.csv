@@ -49,3 +49,7 @@ domain,sync.crwdcntrl.net,adstracker::https://sitereview.bluecoat.com/#/lookup-r
 domain,ad.crwdcntrl.net,adstracker::https://sitereview.bluecoat.com/#/lookup-result/ad.crwdcntrl.net,2020/11/30
 domain,ib.adnxs.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/ib.adnxs.com,2020/11/30
 domain,ib.anycast.adnxs.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/ib.anycast.adnxs.com,2020/11/30
+domain,id.cxense.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/id.cxense.com,2020/11/30
+domain,scomcluster.cxense.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/scomcluster.cxense.com,2020/11/30
+domain,tsrid.cxense.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/tsrid.cxense.com,2020/11/30
+domain,sync.richaudience.com,webanalytics::https://sitereview.bluecoat.com/#/lookup-result/sync.richaudience.com,2020/11/30
