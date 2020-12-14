@@ -70,3 +70,5 @@ domain,us.img.e-planning.net,webanalytics,2020/12/14
 domain,cdn.navdmp.com,tracker,2020/12/14
 domain,tag.navdmp.com,tracker,2020/12/14
 domain,usr.navdmp.com,tracker,2020/12/14
+domain,cdn.firstimpression.io,advertisement::tracker,2020/12/14
+domain,ecdn.firstimpression.io,advertisement::tracker,2020/12/14
