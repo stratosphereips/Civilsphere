@@ -1,344 +1,343 @@
-#-Feed-created-for-the-Stratosphere-Linux-IPS
-#-Mantainer:Alya-Gomaa-<alyaggomaa@gmail.com>
-#-type:-domain,-ip
-#-ioc:-indicator
-#-description:-name::reference
+# Feed created for the Stratosphere Linux IPS
+# type: domain, ip
+# ioc: indicator
 #"type","ioc","description","date_added"
-domain,http://apibazaarvoice.com/bv.js,Magecart-URL-delivery,2020-05-31
-domain,apibazaarvoice.com,Magecart-Domain-C2,2020-05-31
-ip,104.248.46.244,Magecart-IP-C2,2020-05-31
-domain,https://www.happykid.in/image/catalog/d_blog_module/review/jjs.js,Magecart-URL-delivery,2020-05-31
-domain,happykid.in,-Magecart-Domain-delivery,2020-05-31
-ip,206.189.136.20,Magecart-IP-delivery,2020-05-31
-ip,45.197.141.250,Magecart-IP-C2,2020-05-31
-domain,https://rumetonare.com/,Dridex-URL-delievery,2020-05-01
-domain,rumetonare.com,Dridex-Domain-delievery,2020-05-01
-ip,84.38.180.4,Dridex-IP-requested,2020-05-01
-domain,nurofenpanadol.su,Neutrino-Domain-C2,2020-02-08
-domain,ns.dotbit.me,Neutrino-Domain-C2,2020-02-08
-domain,alors.deepdns.cryptostorm.net,Neutrino-Domain-C2,2020-02-08
-domain,onyx.deepdns.cryptostorm.net,Neutrino-Domain-C2,2020-02-08
-domain,ns1.any.dns.d0wn.biz,Neutrino-Domain-C2,2020-02-08
-domain,ns1.random.dns.d0wn.biz,Neutrino-Domain-C2,2020-02-08
-domain,ns2.random.dns.d0wn.biz,Neutrino-Domain-C2,2020-02-08
-domain,civet.ziphaze.com,Neutrino-Domain-C2,2020-02-08
-domain,anyone.dnsrec.meo.ws,Neutrino-Domain-C2,2020-02-08
-domain,ist.fellig.org,Neutrino-Domain-C2,2020-02-08
-domain,ns1.sg.dns.d0wn.biz,Neutrino-Domain-C2,2020-02-08
-domain,ns2.fr.dns.d0wn.biz,Neutrino-Domain-C2,2020-02-08
-domain,ns1.nl.dns.d0wn.biz,Neutrino-Domain-C2,2020-02-08
-ip,178.17.170.133,Neutrino-IP-C2,2020-02-08
-ip,107.161.16.236,Neutrino-IP-C2,2020-02-08
-ip,46.254.21.69,Neutrino-IP-C2,2020-02-08
-ip,185.14.29.140,Neutrino-IP-C2,2020-02-08
-ip,37.187.0.40,Neutrino-IP-C2,2020-02-08
-ip,178.63.145.236,Neutrino-IP-C2,2020-02-08
-ip,95.85.9.86,Neutrino-IP-C2,2020-02-08
-ip,128.199.248.105,Neutrino-IP-C2,2020-02-08
-domain,maps.doaglas.com,Terraloader-Domain-C2,2020-04-12
-ip,190.10.8.23,Terraloader-IP-C2,2020-04-12
-domain,d27qdop2sa027t.cloudfront.net,-Terraloader-Domain-C2,2021-03-27
-domain,http://95.179.252.217/load.php,url-delievery,2020-04-27
-domain,http://136.244.67.59/web/index.php?r=cmd,url-C2,2020-04-27
-domain,http://95.179.252.217/web/index.php?r=cmd,url-C2,2020-04-27
-domain,schedule.winupdate.workers.dev,domain-requested,2020-04-27
-ip,95.179.252.217,IP-C2,2020-04-27
-ip,136.244.67.59,IP-C2,2020-04-27
-ip,104.31.70.75,IP-requested,2020-04-27
-domain,Domain,softcheck3u.biz,Domain-C2,2020-05-07
-ip,51.83.171.37,IP-C2,2020-05-07
-domain,https://softcheck3u.biz/inc/server/gate.php,URL-C2,2020-05-07
-ip,51.83.171.37,IP-C2,2020-05-05
-domain,Domain,softcheck3u.biz,Domain-C2,2020-05-05
-domain,https://softcheck3u.biz/inc/server/gate.php,URL-C2,2020-05-05
-domain,https://softcheck3u.biz/inc/server/gate.php,URL-C2,2020-05-05
-ip,51.83.171.37,IP-C2,2020-05-05
-domain,Domain,softcheck3u.biz,Domain-C2,2020-05-05
-domain,https://softcheck3u.biz/inc/server/gate.php,URL-C2,2020-05-05
-ip,51.83.171.37,IP-C2,2020-05-05
-domain,Domain,softcheck3u.biz,Domain-C2,2020-05-05
-domain,http://sissj.site/O/server/gate.php,URL-C2,2020-02-25
-domain,Domain,sissj.site,Domain-C2,2020-02-25
-ip,54.36.185.104,IP-C2,2020-02-25
-domain,http://sissj.site/8/server/gate.php,URL-C2,2019-12-05
-domain,Domain,sissj.site,Domain-C2,2019-12-05
-ip,54.36.185.104,IP-C2-,2019-12-05
-domain,http://sissj.site/O/server/gate.php,URL-C2,2019-12-05
-ip,54.36.185.104,IP-C2-,2019-12-05
-domain,http://sissj.site/8/server/gate.php,URL-C2,2019-12-03
-ip,54.36.185.104,IP-C2,2019-12-03
-domain,http://sissj.site/O/server/gate.php,URL-C2,2019-12-02
-ip,54.36.185.104,IP-C2,2019-12-02
-ip,45.88.77.34,IP-C2,2019-09-06
-domain,Domain,sissj.space,Domain-C2,2019-09-06
-domain,http://sissj.space/8/gate.php,URL-C2,2019-09-06
-domain,Domain,sissj.site,Domain-C2,2019-04-27
-domain,http://sissj.site/O/server/gate.php,URL-C2,2019-04-27
-ip,54.36.185.104,IP-C2,2019-04-27
-domain,z2uymda1mtk.top,Domain-C2,2020-06-15
-domain,documento.smarterrealestateinvesting.com,Domain-delivery,2020-06-15
-ip,31.214.157.27,IP-delivery,2020-06-15
-ip,185.219.221.102,IP-C2,2020-06-15
-domain,documento.selltokengarffhonda.com,Domain-delivery-,2020-06-18
-ip,194.76.224.223,Domain-delivery,2020-06-18
-ip,217.8.117.29,IP-C2,2020-09-07
-domain,http://217.8.117.29/update.php,URL-delivery,2020-09-07
-domain,http://217.8.117.29/rss.php,URL-from-extraction-of-the-data-to-the-C2,2020-09-07
-ip,167.88.180.148,Chinese-APT-campaign-IP-C2,2020-08-19
-domain,www.apple-net.com,Chinese-APT-campaign-Domain-C2,2020-08-19
-domain,en-content.com,Donot-Domain-requested,2019-09-17
-domain,bsodsupport.icu,Donot-Domain-requested,2019-09-17
-domain,cloud-storage-service.com,Donot-Domain-requested,2019-09-17
-domain,office360-pub.16mb.com,Donot-Domain-requested,2019-09-17
-domain,noitfication-office-client.890m.com,Donot-Domain-requested,2019-09-17
-domain,plug.msplugin.icu,Donot-Domain-requested,2019-09-17
-domain,mscheck.icu,Donot-Domain-requested,2019-09-17
-domain,sdn.host,Donot-Domain-requested,2019-09-17
-ip,178.62.186.233,Donot-IP-requested,2019-09-17
-ip,178.62.188.63,Donot-IP-requested,2019-09-17
-ip,156.67.222.128,Donot-IP-requested,2019-09-17
-ip,159.89.104.38,Donot-IP-requested,2019-09-17
-ip,157.230.213.81,Donot-IP-requested,2019-09-17
-ip,146.185.139.134,Donot-IP-requested,2019-09-17
-domain,http://en-content.com/SecurityM/EFILE,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://en-content.com/SecurityM/DFILE,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://en-content.com/SecurityM/DFILE-,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://en-content.com/SecurityM/EFILE-,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://en-content.com/SecurityM/LIN,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://bsodsupport.icu/ScanSecurity/DOCS,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://bsodsupport.icu/ScanSecurity/DOCSN,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://bsodsupport.icu/ScanSecurity/DOCSN-1,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://bsodsupport.icu/ScanSecurity/XLSS,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://bsodsupport.icu/ScanSecurity/XLSSN,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://bsodsupport.icu/ScanSecurity/XLSSN-1,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://cloud-storage-service.com/pub/officex32x64/kb8989476,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://noitfication-office-client.890m.com/fcfdae-9dfc335ca-bd10/NHSORE/jjhl,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://plug.msplugin.icu/MicrosoftSecurityScan/DOCSDOC,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://mscheck.icu/SecurityScan/XLSS,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://sdn.host/MicrosoftSecurityScan/11MVEM1X,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://sdn.host/MicrosoftSecurityScan/FRSI080222F,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,http://account-support.site/supp/accsite/cod.php,Donot-HTTP/HTTPS-requests,2019-09-17
-domain,support.worldupdate.live,Donot-Domain-C2,2019-09-17
-domain,account-support.site,Donot-Domain-C2,2019-09-17
-domain,skillsnew.top,Donot-Domain-C2,2019-09-17
-domain,mystrylust.pw,Donot-Domain-C2,2019-09-17
-ip,216.170.126.139,Donot-IP-C2,2019-09-17
-ip,46.105.40.12,Donot-IP-C2,2019-09-17
-ip,82.196.7.221,Donot-IP-C2,2019-09-17
-ip,37.139.28.208,Donot-IP-C2,2019-09-17
-ip,185.157.78.135,Patchwork-IP-C2,2020-07-23
-domain,altered.twilightparadox.com,Patchwork-hostname,2020-07-23
-domain,go.affec.tv,Patchwork-Domain-C2,2019-09-09
-ip,99.84.194.39,Patchwork-IP-C2,2019-09-09
-ip,178.62.190.33,-SideWinder-IP-C2,2019-11-10
-domain,trans-can.net,-SideWinder-Domain-C2,2019-11-10
-ip,185.225.17.40,SideWinder-IP-C2,2019-12-25
-domain,ap1-acl.net,SideWinder-Domain-C2,2019-12-25
-ip,213.227.155.25,-APT33-IP-requested,2019-11-16
-domain,http://213.227.155.25/site.htm,-APT33-URL-requested,2019-11-16
-ip,185.244.149.202,Muddywater-IP-C2,2020-06-02
-domain,http://185.244.149.202/,Muddywater-URL-C2,2020-06-02
-ip,185.82.202.70,Muddywater-IP-C2,2020-06-10
-domain,http://185.82.202.70/,Muddywater-URL-C2,2020-06-10
-ip,185.106.122.72,Muddywater-IP-C2,2020-06-16
-domain,http://185.106.122.78/,Muddywater-URL-C2,2020-06-16
-ip,185.82.202.66,Muddywater-IP-C2,2020-06-25
-domain,http://185.82.202.66/,Muddywater-URL-C2,2020-06-25
-domain,mydownload-202001.c1.biz,Konni-Domain-C2,2020-04-23
-ip,185.176.43.92,Konni-IP-C2,2020-04-23
-domain,http://mybobo.mygamesonline.org/flower01/flower01.ps1,Kimsuky-URL-delivery,2020-03-20
-domain,mybobo.mygamesonline.org,Kimsuky-Domain-C22020-03-20,185.176.43.82,Kimsuky-IP-C2,2020-03-20
-domain,http://mybobo.mygamesonline.org/flower01/post.php,Kimsuky-URL-C2,2020-03-20
-domain,http://crphone.mireene.com/plugin/editor/Templates/normal.php?name=web,Kimsuky-URL-delivery,2020-03-20
-domain,http://crphone.mireene.com/plugin/editor/Templates/filedown.php?name=v1,Kimsuky-URL-delivery,2020-03-20
-domain,http://crphone.mireene.com/plugin/editor/Templates/filedown.php?name=new,Kimsuky-URL-delivery,2020-03-20
-domain,http://crphone.mireene.com/plugin/editor/Templates/upload.php,Kimsuky-URL-C2,2020-03-20
-domain,https://www.astedams.it/uploads/template/17.dotm,Lazarus-URL-delievery,2020-05-05
-domain,astedams.it,Lazarus-Domain-C2,2020-05-05
-ip,51.77.65.154,Lazarus-IP-C2,2020-05-05
-domain,https://www.astedams.it/include/inc-elenco-offerter.asp-,Lazarus-URL-C2,2020-05-05
-domain,https://www.sanlorenzoyacht.com/newsl/uploads/docs/43.dotm,Lazarus-URL-delievery,2020-05-05
-domain,elite4print.com,Lazarus-Domain-C2,2020-05-05
-ip,192.169.250.185,Lazarus-IP-C2,2020-05-05
-domain,http://www.elite4print.com/admin/order/batchPdfs.asp,Lazarus-URL-C2,2020-05-05
-domain,https://od.lk/d/MzBfMjA1Njc0ODdf/pubmaterial.dotm,Lazarus-URL-delievery,2020-05-05
-domain,https://www.astedams.it/uploads/frame/61.dotm,Lazarus-URL-delievery,2020-05-05
-domain,juliesoskin.com,Lazarus-CES2020-Domain-C2,2019-10-23
-domain,necaled.com,Lazarus-CES2020-Domain-C2,2019-10-23
-domain,valentinsblog.de,Lazarus-CES2020-Domain-C2,2019-10-23
-ip,64.151.229.52,Lazarus-CES2020-IP-C2,2019-10-23
-ip,185.136.207.217,Lazarus-CES2020-IP-C2,2019-10-23
-ip,83.169.17.240,Lazarus-CES2020-IP-C2,2019-10-23
-domain,curiofirenze.com,Lazarus-Domain-C2,2019-10-23
-ip,193.70.64.163,Lazarus-IP-C2,2019-10-23
-domain,https://crabbedly.club/board.php,Lazarus-HTTP/HTTPS-requests,2019-10-23
-domain,https://craypot.live/board.php,Lazarus-HTTP/HTTPS-requests,2019-10-23
-domain,https://indagator.club/board.php,Lazarus-HTTP/HTTPS-requests,2019-10-23
-domain,crabbedly.club,Lazarus-Domain-C2,2019-10-23
-domain,craypot.live,Lazarus-Domain-C2,2019-10-23
-domain,indagator.club,Lazarus-Domain-C2,2019-10-23
-ip,37.72.175.226,Lazarus-IP-C2,2019-10-23
-ip,23.227.199.96,Lazarus-IP-C2,2019-10-23
-ip,185.236.203.211,Lazarus-IP-C2,2019-10-23
-domain,https://towingoperations.com/chat/chat.php,Lazarus-HTTP/HTTPS-requests,2019-10-23
-domain,https://baseballcharlemagnelegardeur.com/wp-content/languages/common.php,Lazarus-HTTP/HTTPS-requests,2019-10-23
-domain,https://www.tangowithcolette.com/pages/common.php,Lazarus-HTTP/HTTPS-requests,2019-10-23
-ip,67.199.248.14,Gorgon-IP-requested,2019-09-09
-ip,172.217.22.97,Gorgon-IP-requested,2019-09-09
-ip,67.199.248.10,Gorgon-IP-requested,2019-09-09
-ip,67.199.248.11,Gorgon-IP-requested,2019-09-09
-ip,216.170.126.139,Gorgon-IP-C2,2019-09-09
-domain,bitly.com,Gorgon-Domain-requested,2019-09-09
-domain,sxasxasxssaxxsasxasx.blogspot.com,Gorgon-Domain-requested,2019-09-09
-domain,pastebin.com,Gorgon-Domain-requested,2019-09-09
-domain,http://216.170.126.139/Panel/10/index.php,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/BrH6UFRc,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://bitly.com/6xdfsSXsh6,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/UZEbWMK9,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/nhcP3XgH,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://bit.ly/loahsh78bhidasyiuasaaki,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/5y7H3LSz,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/TqsXJZaM,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/3MuLJLWZ,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/dkrjWec2,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/j8mRken0,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,http://pastebin.com/raw/bgTGtxHc,Gorgon-HTTP/HTTPS-requests,2019-09-09
-domain,bitly.com,Gorgon-domain-requested,2019-08-23
-domain,xaasxasxasx.blogspot.com,Gorgon-domain-requested,2019-08-23
-domain,resources.blogblog.com,Gorgon-domain-requested,2019-08-23
-domain,pastebin.com,Gorgon-domain-requested,2019-08-23
-ip,67.199.248.14,Gorgon-ip-requested,2019-08-23
-ip,67.199.248.15,Gorgon-ip-requested,2019-08-23
-ip,104.20.208.21,Gorgon-ip-requested,2019-08-23
-ip,176.57.215.22,Gorgon-IP-C2,2019-08-23
-domain,http://www.bitly.com/aswoesx8sxwxxd,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,https://pastebin.com/raw/rjfk3j9m,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,https://pastebin.com/raw/tgP7S1Qe,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,https://pastebin.com/raw/0rhAppFq,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,https://pastebin.com/raw/c3V923PW,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,https://pastebin.com/raw/VFUXDF7C,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,http://www.ichoubyou.net/ao/?3f9L=Lo3E2+YBaBWDL2bUvw2B2SYfQBwPkMAIH1i2HT9ocxT5reT2XuVh6G9ligbLGsBAAwhLuQ==&BbBX=LhTpETx8Zdn,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,http://www.grupomsi.com/ao/?3f9L=Kbq++Y0aAgDxGCx7fxZFucXlrMdtuSyVttVG37Ejsga78k8ZP/EpUCryDr6PmBWAbaydAw==&BbBX=LhTpETx8Zdn&sql=1,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,http://www.grupomsi.com/ao/,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,http://www.theaterloops.com/ao/?3f9L=M0MA2fUiqMbVb6H3GNVaAqJS8mhIciwdMXRISKDsKJcWUJLkZY1j+YIFBEd9s0Uz5tYaIQ==&BbBX=LhTpETx8Zdn&sql=1,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,http://www.theaterloops.com/ao/,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,http://www.sukfat.com/ao/,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,http://www.sukfat.com/ao/?3f9L=i08SS1jJNzlL2PYEM5jjY78DODQHD8SSq/VJ1wVBwRJ7J5CmvaFz3C5neJ7p21NB5nPOdg==&BbBX=LhTpETx8Zdn,Gorgon-HTTP/HTTPS-requests,2019-08-23
-domain,www.hongmenwenhua.com,Gorgon-Domain-C2,2019-08-23
-domain,www.ichoubyou.net,Gorgon-Domain-C2,2019-08-23
-domain,www.grupomsi.com,Gorgon-Domain-C2,2019-08-23
-domain,www.sukfat.com,Gorgon-Domain-C2,2019-08-23
-domain,www.theaterloops.com,Gorgon-Domain-C2,2019-08-23
-ip,210.188.195.164,Gorgon-IP-C2,2019-08-23
-ip,23.20.239.12,Gorgon-IP-C2,2019-08-23
-ip,185.68.16.122,Gorgon-IP-C2,2019-08-23
-ip,199.192.23.220,Gorgon-IP-C2,2019-08-23
-ip,198.46.177.73,Transparent-Tribe-IP-C2,2020-01-22
-ip,176.57.215.22,IP-C2,2019-08-06
-domain,http://shell-create.ddns.net/,URL-request,2019-08-06
-domain,shell-create.ddns.net,Domain-C2,2019-08-06
-domain,http://libre-templates.ddns.net/internet.dot,HTTP/HTTPS-requests,2019-09-09
-domain,http://libre-templates.ddns.net/,HTTP/HTTPS-requests,2019-09-09
-domain,list-sert.ddns.net,Domain-requested,2019-09-09
-domain,libre-templates.ddns.net,domain-requested,2019-09-09
-ip,141.8.192.153,ip-requested,2019-09-09
-ip,188.225.24.161,IP-C2,2019-08-16
-domain,http://document-listing.ddns.net/,URL-request,2019-08-16
-domain,document-listing.ddns.net,Domain-C2,2019-08-16
-ip,176.57.215.22,Gamaredon-iP-C2,2019-08-06
-domain,http://shell-create.ddns.net/,-Gamaredon-URL-request,2019-08-06
-domain,shell-create.ddns.net,-Gamaredon-Domain-C2,2019-08-06
-domain,http://libre-templates.ddns.net/internet.dot,Gamaredon-HTTP/HTTPS-requests,2019-09-09
-domain,http://libre-templates.ddns.net/,Gamaredon-HTTP/HTTPS-requests,2019-09-09
-domain,list-sert.ddns.net,-Gamaredon-Domain-requested,2019-09-09
-domain,libre-templates.ddns.net,Gamaredon-Domain-requested,2019-09-09
-ip,141.8.192.153,Gamaredon-ip-requested,2019-09-09
-ip,188.225.24.161,Gamaredon-iP-C2,2019-08-16
-domain,http://document-listing.ddns.net/,Gamaredon-URL-request,2019-08-16
-domain,Document-listing.ddns.net,-Gamaredon-Domain-C2,2019-08-16
-domain,moviedvdpower.com,FIN7-Domain-requested,2019-10-16
-ip,31.3.232.105,FIN7-IP-requested,2019-10-16
-ip,185.231.153.21,FIN7-IP-C2,2019-10-16
-domain,moviedvdpower.com,FIN7-Domain-C2,2019-10-16
-ip,31.3.232.105,FIN7-IP-C2,2019-10-16
-domain,adamnews.for.ug,domain-requested,﻿2019-08-26
-domain,israanews.zz.com.ve,domain-requested,2019-08-26
-domain,mmksba.dyndns.org,Domain-C2,2019-08-26
-domain,webhoptest.webhop.info,Domain-C2,2019-08-26
-domain,mmksba.simple-url.com,Domain-C2,2019-08-26
-ip,85.17.26.65,IP-requested,2019-08-26
-ip,66.154.103.156,IP-C2,2019-08-26
-ip,37.48.111.5,IP-C2,2019-08-26
-domain,http://israanews.zz.com.ve/hw.zip.zip,HTTP/HTTPS-requests,2019-08-26
-domain,http://adamnews.for.ug/hwdownhww,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.dyndns.org:4455/is-ready,HTTP/HTTPS-requests,2019-08-26
-domain,http://webhoptest.webhop.info:4433/is-ready,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.simple-url.com:4422/is-ready,HTTP/HTTPS-requests,2019-08-26
-domain,http://webhoptest.webhop.info:4433/is-sending,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.simple-url.com:4422/is-sending,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.dyndns.org:4455/is-sending,HTTP/HTTPS-requests,2019-08-26
-domain,http://webhoptest.webhop.info:4433/is-recving,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.simple-url.com:4422/is-recving,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.dyndns.org:4455/is-recving,HTTP/HTTPS-requests,2019-08-26
-domain,http://webhoptest.webhop.info:4433/is-enum-driver,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.simple-url.com:4422/is-enum-driver,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.dyndns.org:4455/is-enum-driver,HTTP/HTTPS-requests,2019-08-26
-domain,http://webhoptest.webhop.info:4433/is-enum-faf,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.simple-url.com:4422/is-enum-faf,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.dyndns.org:4455/is-enum-faf,HTTP/HTTPS-requests,2019-08-26
-domain,http://webhoptest.webhop.info:4433/is-enum-process,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.simple-url.com:4422/is-enum-process,HTTP/HTTPS-requests,2019-08-26
-domain,http://mmksba.dyndns.org:4455/is-enum-process,HTTP/HTTPS-requests,2019-08-26
-domain,2813.noip.me,Domain-C2,2019-10-01
-domain,tcoolsoul.com,Domain-C2,2019-10-01
-domain,ip-api.com,Domain-requested,2019-10-01
-domain,brothersjoy.nl,Domain-requested,2019-10-01
-domain,doughnut-snack.live,Domain-requested,2019-10-01
-domain,http://pluginsrv1.duckdns.org:7757/is-ready,HTTP/HTTPS-requests,2019-10-01
-domain,http://ip-api.com/json/,HTTP/HTTPS-requests,2019-10-01
-domain,http://www.tcoolsoul.com:1765/is-ready,HTTP/HTTPS-requests,2019-10-01
-domain,http://doughnut-snack.live/mapv.tar.gz,HTTP/HTTPS-requests,2019-10-01
-domain,http://doughnut-snack.live/klplu.tar.gz,HTTP/HTTPS-requests,2019-10-01
-domain,http://doughnut-snack.live/bpvpl.tar.gz,HTTP/HTTPS-requests,2019-10-01
-domain,http://doughnut-snack.live/rdplu1.tar.gz,HTTP/HTTPS-requests,2019-10-01
+domain,http://apibazaarvoice.com,Magecart URL delivery,2020-05-31
+domain,apibazaarvoice.com,Magecart Domain C2,2020-05-31
+ip,104.248.46.244,Magecart IP C2,2020-05-31
+domain,https://www.happykid.in/image/catalog/d_blog_module/review/jjs.js,Magecart URL delivery,2020-05-31
+domain,happykid.in, Magecart Domain delivery,2020-05-31
+ip,206.189.136.20,Magecart IP delivery,2020-05-31
+ip,45.197.141.250,Magecart IP C2,2020-05-31
+domain,https://rumetonare.com/,Dridex URL delievery,2020-05-01
+domain,rumetonare.com,Dridex Domain delievery,2020-05-01
+ip,84.38.180.4,Dridex IP requested,2020-05-01
+domain,nurofenpanadol.su,Neutrino Domain C2,2020-02-08
+domain,ns.dotbit.me,Neutrino Domain C2,2020-02-08
+domain,alors.deepdns.cryptostorm.net,Neutrino Domain C2,2020-02-08
+domain,onyx.deepdns.cryptostorm.net,Neutrino Domain C2,2020-02-08
+domain,ns1.any.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
+domain,ns1.random.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
+domain,ns2.random.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
+domain,civet.ziphaze.com,Neutrino Domain C2,2020-02-08
+domain,anyone.dnsrec.meo.ws,Neutrino Domain C2,2020-02-08
+domain,ist.fellig.org,Neutrino Domain C2,2020-02-08
+domain,ns1.sg.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
+domain,ns2.fr.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
+domain,ns1.nl.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
+ip,178.17.170.133,Neutrino IP C2,2020-02-08
+ip,107.161.16.236,Neutrino IP C2,2020-02-08
+ip,46.254.21.69,Neutrino IP C2,2020-02-08
+ip,185.14.29.140,Neutrino IP C2,2020-02-08
+ip,37.187.0.40,Neutrino IP C2,2020-02-08
+ip,178.63.145.236,Neutrino IP C2,2020-02-08
+ip,95.85.9.86,Neutrino IP C2,2020-02-08
+ip,128.199.248.105,Neutrino IP C2,2020-02-08
+domain,maps.doaglas.com,Terraloader Domain C2,2020-04-12
+ip,190.10.8.23,Terraloader IP C2,2020-04-12
+domain,d27qdop2sa027t.cloudfront.net, Terraloader Domain C2,2021-03-27
+domain,http://95.179.252.217/load.php,url delievery,2020-04-27
+domain,http://136.244.67.59/web/index.php?r=cmd,url C2,2020-04-27
+domain,http://95.179.252.217/web/index.php?r=cmd,url C2,2020-04-27
+domain,schedule.winupdate.workers.dev,domain requested,2020-04-27
+ip,
+ip,95.179.252.217,IP C2,2020-04-27
+ip,136.244.67.59,IP C2,2020-04-27
+ip,104.31.70.75,IP requested,2020-04-27
+domain,Domain,softcheck3u.biz,Domain C2,2020-05-07
+ip,51.83.171.37,IP C2,2020-05-07
+domain,https://softcheck3u.biz/inc/server/gate.php,URL C2,2020-05-07
+ip,51.83.171.37,IP C2,2020-05-05
+domain,Domain,softcheck3u.biz,Domain C2,2020-05-05
+domain,https://softcheck3u.biz/inc/server/gate.php,URL C2,2020-05-05
+domain,https://softcheck3u.biz/inc/server/gate.php,URL C2,2020-05-05
+ip,51.83.171.37,IP C2,2020-05-05
+domain,Domain,softcheck3u.biz,Domain C2,2020-05-05
+domain,https://softcheck3u.biz/inc/server/gate.php,URL C2,2020-05-05
+ip,51.83.171.37,IP C2,2020-05-05
+domain,Domain,softcheck3u.biz,Domain C2,2020-05-05
+domain,http://sissj.site/O/server/gate.php,URL C2,2020-02-25
+domain,Domain,sissj.site,Domain C2,2020-02-25
+ip,54.36.185.104,IP C2,2020-02-25
+domain,http://sissj.site/8/server/gate.php,URL C2,2019-12-05
+domain,Domain,sissj.site,Domain C2,2019-12-05
+ip,54.36.185.104,IP C2 ,2019-12-05
+domain,http://sissj.site/O/server/gate.php,URL C2,2019-12-05
+ip,54.36.185.104,IP C2 ,2019-12-05
+domain,http://sissj.site/8/server/gate.php,URL C2,2019-12-03
+ip,54.36.185.104,IP C2,2019-12-03
+domain,http://sissj.site/O/server/gate.php,URL C2,2019-12-02
+ip,54.36.185.104,IP C2,2019-12-02
+ip,45.88.77.34,IP C2,2019-09-06
+domain,Domain,sissj.space,Domain C2,2019-09-06
+domain,http://sissj.space/8/gate.php,URL C2,2019-09-06
+domain,Domain,sissj.site,Domain C2,2019-04-27
+domain,http://sissj.site/O/server/gate.php,URL C2,2019-04-27
+ip,54.36.185.104,IP C2,2019-04-27
+domain,z2uymda1mtk.top,Domain C2,2020-06-15
+domain,documento.smarterrealestateinvesting.com,Domain delivery,2020-06-15
+ip,31.214.157.27,IP delivery,2020-06-15
+ip,185.219.221.102,IP C2,2020-06-15
+domain,documento.selltokengarffhonda.com,Domain delivery ,2020-06-18
+ip,194.76.224.223,Domain delivery,2020-06-18
+ip,217.8.117.29,IP C2,2020-09-07
+domain,http://217.8.117.29/update.php,URL delivery,2020-09-07
+domain,http://217.8.117.29/rss.php,URL from extraction of the data to the C2,2020-09-07
+ip,167.88.180.148,Chinese APT campaign IP C2,2020-08-19
+domain,www.apple-net.com,Chinese APT campaign Domain C2,2020-08-19
+domain,en-content.com,Donot Domain requested,2019-09-17
+domain,bsodsupport.icu,Donot Domain requested,2019-09-17
+domain,cloud-storage-service.com,Donot Domain requested,2019-09-17
+domain,office360-pub.16mb.com,Donot Domain requested,2019-09-17
+domain,noitfication-office-client.890m.com,Donot Domain requested,2019-09-17
+domain,plug.msplugin.icu,Donot Domain requested,2019-09-17
+domain,mscheck.icu,Donot Domain requested,2019-09-17
+domain,sdn.host,Donot Domain requested,2019-09-17
+ip,178.62.186.233,Donot IP requested,2019-09-17
+ip,178.62.188.63,Donot IP requested,2019-09-17
+ip,156.67.222.128,Donot IP requested,2019-09-17
+ip,159.89.104.38,Donot IP requested,2019-09-17
+ip,157.230.213.81,Donot IP requested,2019-09-17
+ip,146.185.139.134,Donot IP requested,2019-09-17
+domain,http://en-content.com/SecurityM/EFILE,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://en-content.com/SecurityM/DFILE,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://en-content.com/SecurityM/DFILE-,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://en-content.com/SecurityM/EFILE-,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://en-content.com/SecurityM/LIN,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://bsodsupport.icu/ScanSecurity/DOCS,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://bsodsupport.icu/ScanSecurity/DOCSN,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://bsodsupport.icu/ScanSecurity/DOCSN-1,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://bsodsupport.icu/ScanSecurity/XLSS,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://bsodsupport.icu/ScanSecurity/XLSSN,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://bsodsupport.icu/ScanSecurity/XLSSN-1,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://cloud-storage-service.com/pub/officex32x64/kb8989476,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://noitfication-office-client.890m.com/fcfdae-9dfc335ca-bd10/NHSORE/jjhl,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://plug.msplugin.icu/MicrosoftSecurityScan/DOCSDOC,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://mscheck.icu/SecurityScan/XLSS,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://sdn.host/MicrosoftSecurityScan/11MVEM1X,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://sdn.host/MicrosoftSecurityScan/FRSI080222F,Donot HTTP/HTTPS requests,2019-09-17
+domain,http://account-support.site/supp/accsite/cod.php,Donot HTTP/HTTPS requests,2019-09-17
+domain,support.worldupdate.live,Donot Domain C2,2019-09-17
+domain,account-support.site,Donot Domain C2,2019-09-17
+domain,skillsnew.top,Donot Domain C2,2019-09-17
+domain,mystrylust.pw,Donot Domain C2,2019-09-17
+ip,216.170.126.139,Donot IP C2,2019-09-17
+ip,46.105.40.12,Donot IP C2,2019-09-17
+ip,82.196.7.221,Donot IP C2,2019-09-17
+ip,37.139.28.208,Donot IP C2,2019-09-17
+ip,185.157.78.135,Patchwork IP C2,2020-07-23
+domain,altered.twilightparadox.com,Patchwork hostname,2020-07-23
+domain,go.affec.tv,Patchwork Domain C2,2019-09-09
+ip,99.84.194.39,Patchwork IP C2,2019-09-09
+ip,178.62.190.33, SideWinder IP C2,2019-11-10
+domain,trans-can.net, SideWinder Domain C2,2019-11-10
+ip,185.225.17.40,SideWinder IP C2,2019-12-25
+domain,ap1-acl.net,SideWinder Domain C2,2019-12-25
+ip,213.227.155.25, APT33 IP requested,2019-11-16
+domain,http://213.227.155.25/site.htm, APT33 URL requested,2019-11-16
+ip,185.244.149.202,Muddywater IP C2,2020-06-02
+domain,http://185.244.149.202/,Muddywater URL C2,2020-06-02
+ip,185.82.202.70,Muddywater IP C2,2020-06-10
+domain,http://185.82.202.70/,Muddywater URL C2,2020-06-10
+ip,185.106.122.72,Muddywater IP C2,2020-06-16
+domain,http://185.106.122.78/,Muddywater URL C2,2020-06-16
+ip,185.82.202.66,Muddywater IP C2,2020-06-25
+domain,http://185.82.202.66/,Muddywater URL C2,2020-06-25
+domain,mydownload-202001.c1.biz,Konni Domain C2,2020-04-23
+ip,185.176.43.92,Konni IP C2,2020-04-23
+domain,http://mybobo.mygamesonline.org/flower01/flower01.ps1,Kimsuky URL delivery,2020-03-20
+domain,mybobo.mygamesonline.org,Kimsuky Domain C22020-03-20,185.176.43.82,Kimsuky IP C2,2020-03-20
+domain,http://mybobo.mygamesonline.org/flower01/post.php,Kimsuky URL C2,2020-03-20
+domain,http://crphone.mireene.com/plugin/editor/Templates/normal.php?name=web,Kimsuky URL delivery,2020-03-20
+domain,http://crphone.mireene.com/plugin/editor/Templates/filedown.php?name=v1,Kimsuky URL delivery,2020-03-20
+domain,http://crphone.mireene.com/plugin/editor/Templates/filedown.php?name=new,Kimsuky URL delivery,2020-03-20
+domain,http://crphone.mireene.com/plugin/editor/Templates/upload.php,Kimsuky URL C2,2020-03-20
+domain,https://www.astedams.it/uploads/template/17.dotm,Lazarus URL delievery,2020-05-05
+domain,astedams.it,Lazarus Domain C2,2020-05-05
+ip,51.77.65.154,Lazarus IP C2,2020-05-05
+domain,https://www.astedams.it/include/inc-elenco-offerter.asp ,Lazarus URL C2,2020-05-05
+domain,https://www.sanlorenzoyacht.com/newsl/uploads/docs/43.dotm,Lazarus URL delievery,2020-05-05
+domain,elite4print.com,Lazarus Domain C2,2020-05-05
+ip,192.169.250.185,Lazarus IP C2,2020-05-05
+domain,http://www.elite4print.com/admin/order/batchPdfs.asp,Lazarus URL C2,2020-05-05
+domain,https://od.lk/d/MzBfMjA1Njc0ODdf/pubmaterial.dotm,Lazarus URL delievery,2020-05-05
+domain,https://www.astedams.it/uploads/frame/61.dotm,Lazarus URL delievery,2020-05-05
+domain,juliesoskin.com,Lazarus CES2020 Domain C2,2019-10-23
+domain,necaled.com,Lazarus CES2020 Domain C2,2019-10-23
+domain,valentinsblog.de,Lazarus CES2020 Domain C2,2019-10-23
+ip,64.151.229.52,Lazarus CES2020 IP C2,2019-10-23
+ip,185.136.207.217,Lazarus CES2020 IP C2,2019-10-23
+ip,83.169.17.240,Lazarus CES2020 IP C2,2019-10-23
+domain,curiofirenze.com,Lazarus Domain C2,2019-10-23
+ip,193.70.64.163,Lazarus IP C2,2019-10-23
+domain,https://crabbedly.club/board.php,Lazarus HTTP/HTTPS requests,2019-10-23
+domain,https://craypot.live/board.php,Lazarus HTTP/HTTPS requests,2019-10-23
+domain,https://indagator.club/board.php,Lazarus HTTP/HTTPS requests,2019-10-23
+domain,crabbedly.club,Lazarus Domain C2,2019-10-23
+domain,craypot.live,Lazarus Domain C2,2019-10-23
+domain,indagator.club,Lazarus Domain C2,2019-10-23
+ip,37.72.175.226,Lazarus IP C2,2019-10-23
+ip,23.227.199.96,Lazarus IP C2,2019-10-23
+ip,185.236.203.211,Lazarus IP C2,2019-10-23
+domain,https://towingoperations.com/chat/chat.php,Lazarus HTTP/HTTPS requests,2019-10-23
+domain,https://baseballcharlemagnelegardeur.com/wp-content/languages/common.php,Lazarus HTTP/HTTPS requests,2019-10-23
+domain,https://www.tangowithcolette.com/pages/common.php,Lazarus HTTP/HTTPS requests,2019-10-23
+ip,67.199.248.14,Gorgon IP requested,2019-09-09
+ip,172.217.22.97,Gorgon IP requested,2019-09-09
+ip,67.199.248.10,Gorgon IP requested,2019-09-09
+ip,67.199.248.11,Gorgon IP requested,2019-09-09
+ip,216.170.126.139,Gorgon IP C2,2019-09-09
+domain,bitly.com,Gorgon Domain requested,2019-09-09
+domain,sxasxasxssaxxsasxasx.blogspot.com,Gorgon Domain requested,2019-09-09
+domain,pastebin.com,Gorgon Domain requested,2019-09-09
+domain,http://216.170.126.139/Panel/10/index.php,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/BrH6UFRc,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://bitly.com/6xdfsSXsh6,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/UZEbWMK9,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/nhcP3XgH,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://bit.ly/loahsh78bhidasyiuasaaki,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/5y7H3LSz,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/TqsXJZaM,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/3MuLJLWZ,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/dkrjWec2,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/j8mRken0,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,http://pastebin.com/raw/bgTGtxHc,Gorgon HTTP/HTTPS requests,2019-09-09
+domain,bitly.com,Gorgon domain requested,2019-08-23
+domain,xaasxasxasx.blogspot.com,Gorgon domain requested,2019-08-23
+domain,resources.blogblog.com,Gorgon domain requested,2019-08-23
+domain,pastebin.com,Gorgon domain requested,2019-08-23
+ip,67.199.248.14,Gorgon ip requested,2019-08-23
+ip,67.199.248.15,Gorgon ip requested,2019-08-23
+ip,104.20.208.21,Gorgon ip requested,2019-08-23
+ip,176.57.215.22,Gorgon IP C2,2019-08-23
+domain,http://www.bitly.com/aswoesx8sxwxxd,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,https://pastebin.com/raw/rjfk3j9m,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,https:///pastebin.com/raw/tgP7S1Qe,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,https://pastebin.com/raw/0rhAppFq,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,https://pastebin.com/raw/c3V923PW,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,https://pastebin.com/raw/VFUXDF7C,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,http://www.ichoubyou.net/ao/?3f9L=Lo3E2+YBaBWDL2bUvw2B2SYfQBwPkMAIH1i2HT9ocxT5reT2XuVh6G9ligbLGsBAAwhLuQ==&BbBX=LhTpETx8Zdn,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,http://www.grupomsi.com/ao/?3f9L=Kbq++Y0aAgDxGCx7fxZFucXlrMdtuSyVttVG37Ejsga78k8ZP/EpUCryDr6PmBWAbaydAw==&BbBX=LhTpETx8Zdn&sql=1,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,http://www.grupomsi.com/ao/,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,http://www.theaterloops.com/ao/?3f9L=M0MA2fUiqMbVb6H3GNVaAqJS8mhIciwdMXRISKDsKJcWUJLkZY1j+YIFBEd9s0Uz5tYaIQ==&BbBX=LhTpETx8Zdn&sql=1,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,http://www.theaterloops.com/ao/,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,http://www.sukfat.com/ao/,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,http://www.sukfat.com/ao/?3f9L=i08SS1jJNzlL2PYEM5jjY78DODQHD8SSq/VJ1wVBwRJ7J5CmvaFz3C5neJ7p21NB5nPOdg==&BbBX=LhTpETx8Zdn,Gorgon HTTP/HTTPS requests,2019-08-23
+domain,www.hongmenwenhua.com,Gorgon Domain C2,2019-08-23
+domain,www.ichoubyou.net,Gorgon Domain C2,2019-08-23
+domain,www.grupomsi.com,Gorgon Domain C2,2019-08-23
+domain,www.sukfat.com,Gorgon Domain C2,2019-08-23
+domain,www.theaterloops.com,Gorgon Domain C2,2019-08-23
+ip,210.188.195.164,Gorgon IP C2,2019-08-23
+ip,23.20.239.12,Gorgon IP C2,2019-08-23
+ip,185.68.16.122,Gorgon IP C2,2019-08-23
+ip,199.192.23.220,Gorgon IP C2,2019-08-23
+ip,198.46.177.73,Transparent Tribe IP C2,2020-01-22
+ip,176.57.215.22,IP C2,2019-08-06
+domain,http://shell-create.ddns.net/,URL request,2019-08-06
+domain,shell-create.ddns.net,Domain C2,2019-08-06
+domain,http://libre-templates.ddns.net/internet.dot,HTTP/HTTPS requests,2019-09-09
+domain,http://libre-templates.ddns.net/,HTTP/HTTPS requests,2019-09-09
+domain,list-sert.ddns.net,Domain requested,2019-09-09
+domain,libre-templates.ddns.net,domain requested,2019-09-09
+ip,141.8.192.153,ip requested,2019-09-09
+ip,188.225.24.161,IP C2,2019-08-16
+domain,http://document-listing.ddns.net/,URL request,2019-08-16
+domain,document-listing.ddns.net,Domain C2,2019-08-16
+ip,176.57.215.22,Gamaredon iP C2,2019-08-06
+domain,http://shell-create.ddns.net/, Gamaredon URL request,2019-08-06
+domain,shell-create.ddns.net, Gamaredon Domain C2,2019-08-06
+domain,http://libre-templates.ddns.net/internet.dot,Gamaredon HTTP/HTTPS requests,2019-09-09
+domain,http://libre-templates.ddns.net/,Gamaredon HTTP/HTTPS requests,2019-09-09
+domain,list-sert.ddns.net, Gamaredon Domain requested,2019-09-09
+domain,libre-templates.ddns.net,Gamaredon Domain requested,2019-09-09
+ip,141.8.192.153,Gamaredon ip requested,2019-09-09
+ip,188.225.24.161,Gamaredon iP C2,2019-08-16
+domain,http://document-listing.ddns.net/,Gamaredon URL request,2019-08-16
+domain,Document-listing.ddns.net, Gamaredon Domain C2,2019-08-16
+domain,moviedvdpower.com,FIN7 Domain requested,2019-10-16
+ip,31.3.232.105,FIN7 IP requested,2019-10-16
+ip,185.231.153.21,FIN7 IP C2,2019-10-16
+domain,moviedvdpower.com,FIN7 Domain C2,2019-10-16
+ip,31.3.232.105,FIN7 IP C2,2019-10-16
+domain,adamnews.for.ug,domain requested,﻿2019-08-26
+domain,israanews.zz.com.ve,domain requested,2019-08-26
+domain,mmksba.dyndns.org,Domain C2,2019-08-26
+domain,webhoptest.webhop.info,Domain C2,2019-08-26
+domain,mmksba.simple-url.com,Domain C2,2019-08-26
+ip,85.17.26.65,IP requested,2019-08-26
+ip,66.154.103.156,IP C2,2019-08-26
+ip,37.48.111.5,IP C2,2019-08-26
+domain,http://israanews.zz.com.ve/hw.zip.zip,HTTP/HTTPS requests,2019-08-26
+domain,http://adamnews.for.ug/hwdownhww,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.dyndns.org:4455/is-ready,HTTP/HTTPS requests,2019-08-26
+domain,http://webhoptest.webhop.info:4433/is-ready,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.simple-url.com:4422/is-ready,HTTP/HTTPS requests,2019-08-26
+domain,http://webhoptest.webhop.info:4433/is-sending,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.simple-url.com:4422/is-sending,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.dyndns.org:4455/is-sending,HTTP/HTTPS requests,2019-08-26
+domain,http://webhoptest.webhop.info:4433/is-recving,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.simple-url.com:4422/is-recving,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.dyndns.org:4455/is-recving,HTTP/HTTPS requests,2019-08-26
+domain,http://webhoptest.webhop.info:4433/is-enum-driver,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.simple-url.com:4422/is-enum-driver,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.dyndns.org:4455/is-enum-driver,HTTP/HTTPS requests,2019-08-26
+domain,http://webhoptest.webhop.info:4433/is-enum-faf,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.simple-url.com:4422/is-enum-faf,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.dyndns.org:4455/is-enum-faf,HTTP/HTTPS requests,2019-08-26
+domain,http://webhoptest.webhop.info:4433/is-enum-process,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.simple-url.com:4422/is-enum-process,HTTP/HTTPS requests,2019-08-26
+domain,http://mmksba.dyndns.org:4455/is-enum-process,HTTP/HTTPS requests,2019-08-26
+domain,2813.noip.me,Domain C2,2019-10-01
+domain,tcoolsoul.com,Domain C2,2019-10-01
+domain,ip-api.com,Domain requested,2019-10-01
+domain,brothersjoy.nl,Domain requested,2019-10-01
+domain,doughnut-snack.live,Domain requested,2019-10-01
+domain,http://pluginsrv1.duckdns.org:7757/is-ready,HTTP/HTTPS requests,2019-10-01
+domain,http://ip-api.com/json/,HTTP/HTTPS requests,2019-10-01
+domain,http://www.tcoolsoul.com:1765/is-ready,HTTP/HTTPS requests,2019-10-01
+domain,http://doughnut-snack.live/mapv.tar.gz,HTTP/HTTPS requests,2019-10-01
+domain,http://doughnut-snack.live/klplu.tar.gz,HTTP/HTTPS requests,2019-10-01
+domain,http://doughnut-snack.live/bpvpl.tar.gz,HTTP/HTTPS requests,2019-10-01
+domain,http://doughnut-snack.live/rdplu1.tar.gz,HTTP/HTTPS requests,2019-10-01
 domain,http://185.247.228.159:1765/open-rdp,1280x720,2019-10-01
-ip,79.134.225.100,IP-requested,2019-10-01
-ip,192.169.69.25,IP-requested,2019-10-01
-ip,172.245.14.10,IP-requested,2019-10-01
-ip,185.194.141.58,IP-C2,2019-10-01
-ip,185.247.228.159,IP-C2,2019-10-01
-ip,147.135.204.64,TA505-IP-Requested,2019-10-04
-ip,18.194.14.44,TA505-IP-Requested,2019-10-04
-ip,183.111.138.244,TA505-IP-Requested,2019-10-04
-ip,185.33.87.27,TA505-IP-Requested,2019-10-04
-ip,192.99.211.205,TA505-IP-Requested,2019-10-04
-domain,chogoon.com,TA505-Domain-Requested,2019-10-04
-domain,https://chogoon.com/srt/gedp4,TA505-https://chogoon.com/srt/gedp4,2019-10-04
-domain,https://windows-wsus-en.com/version,TA505-URL-Requested,2019-10-04
-domain,office365-update-eu.com,TA505-Domain-C2,2019-10-04
-domain,windows-wsus-en.com,TA505-Domain-C2,2019-10-04
-ip,162.125.66.1,TA505-IP-Requested,2019-10-04
-ip,172.217.16.141,TA505-IP-Requested,2019-10-04
-ip,45.63.11.216,TA505-IP-Requested,2019-10-04
-ip,54.83.52.76,TA505-IP-Requested,2019-10-04
-ip,96.44.166.189,TA505-IP-Requested,2019-10-04
-domain,dropbox-download.com,TA505-Domain-Requested,2019-10-04
-domain,https://dropbox-download.com,TA505-HTTP/HTTPS-requests,2019-10-04
-domain,https://dropbox-download.com/?05041770570340,TA505-HTTP/HTTPS-requests,2019-10-04
-domain,https://dropbox-download.com/?05610068412737,TA505-HTTP/HTTPS-requests,2019-10-04
-domain,https://dropbox-download.com/?35277620367160,TA505-HTTP/HTTPS-requests,2019-10-04
-domain,https://dropbox-download.com/download.php,TA505-HTTP/HTTPS-requests2019-10-04,windows-msd-update.com,TA505-Domain-C2,2019-10-04
-domain,maq.com.pk,Bitter-Domain-requested,2019-08-27
-ip,203.124.43.227,Bitter-IP-requested,2019-08-27
-domain,http://maq.com.pk/,Bitter-HTTP/HTTPS-requests,2019-08-27
-domain,http://maq.com.pk/wehsd,Bitter-HTTP/HTTPS-requests,2019-08-27
-domain,http://maq.com.pk/wehs,Bitter-HTTP/HTTPS-requests,2019-08-27
-domain,http://onlinejohnline99.org/kvs06v.php,Bitter-HTTP/HTTPS-requests,2019-08-27
-domain,onlinejohnline99.org,Bitter-Domain-C2,2019-08-27
-ip,93.123.73.193,Bitter-IP-C2,2019-08-27
-ip,93.123.73.198,Bitter-IP-C2,2019-08-27
-domain,cloudfiles.club,DangerousPassword-Domain-delivery,2020-04-02
-domain,msupdatepms.xyz,DangerousPassword-Domain-delievry,2020-04-02
-domain,https://bit.ly/2UiZH6V,DangerousPassword-URL-delivery,2020-04-02
-domain,https://bit.ly/3dr8YBv,DangerousPassword-URL-delivery,2020-04-02
-ip,88.204.166.59,DangerousPassword-IP-C2,2020-04-02
+ip,79.134.225.100,IP requested,2019-10-01
+ip,192.169.69.25,IP requested,2019-10-01
+ip,172.245.14.10,IP requested,2019-10-01
+ip,185.194.141.58,IP C2,2019-10-01
+ip,185.247.228.159,IP C2,2019-10-01
+ip,147.135.204.64,TA505 IP Requested,2019-10-04
+ip,18.194.14.44,TA505 IP Requested,2019-10-04
+ip,183.111.138.244,TA505 IP Requested,2019-10-04
+ip,185.33.87.27,TA505 IP Requested,2019-10-04
+ip,192.99.211.205,TA505 IP Requested,2019-10-04
+domain,chogoon.com,TA505 Domain Requested,2019-10-04
+domain,https://chogoon.com/srt/gedp4,TA505 https://chogoon.com/srt/gedp4,2019-10-04
+domain,https://windows-wsus-en.com/version,TA505 URL Requested,2019-10-04
+domain,office365-update-eu.com,TA505 Domain C2,2019-10-04
+domain,windows-wsus-en.com,TA505 Domain C2,2019-10-04
+ip,162.125.66.1,TA505 IP Requested,2019-10-04
+ip,172.217.16.141,TA505 IP Requested,2019-10-04
+ip,45.63.11.216,TA505 IP Requested,2019-10-04
+ip,54.83.52.76,TA505 IP Requested,2019-10-04
+ip,96.44.166.189,TA505 IP Requested,2019-10-04
+domain,dropbox-download.com,TA505 Domain Requested,2019-10-04
+domain,https://dropbox-download.com,TA505 HTTP/HTTPS requests,2019-10-04
+domain,https://dropbox-download.com/?05041770570340,TA505 HTTP/HTTPS requests,2019-10-04
+domain,https://dropbox-download.com/?05610068412737,TA505 HTTP/HTTPS requests,2019-10-04
+domain,https://dropbox-download.com/?35277620367160,TA505 HTTP/HTTPS requests,2019-10-04
+domain,https://dropbox-download.com/download.php,TA505 HTTP/HTTPS requests2019-10-04,windows-msd-update.com,TA505 Domain C2,2019-10-04
+domain,maq.com.pk,Bitter Domain requested,2019-08-27
+ip,203.124.43.227,Bitter IP requested,2019-08-27
+domain,http://maq.com.pk/,Bitter HTTP/HTTPS requests,2019-08-27
+domain,http://maq.com.pk/wehsd,Bitter HTTP/HTTPS requests,2019-08-27
+domain,http://maq.com.pk/wehs,Bitter HTTP/HTTPS requests,2019-08-27
+domain,http://onlinejohnline99.org/kvs06v.php,Bitter HTTP/HTTPS requests,2019-08-27
+domain,onlinejohnline99.org,Bitter Domain C2,2019-08-27
+ip,93.123.73.193,Bitter IP C2,2019-08-27
+ip,93.123.73.198,Bitter IP C2,2019-08-27
+domain,cloudfiles.club,DangerousPassword Domain delivery,2020-04-02
+domain,msupdatepms.xyz,DangerousPassword Domain delievry,2020-04-02
+domain,https://bit.ly/2UiZH6V,DangerousPassword URL delivery,2020-04-02
+domain,https://bit.ly/3dr8YBv,DangerousPassword URL delivery,2020-04-02
+ip,88.204.166.59,DangerousPassword IP C2,2020-04-02
