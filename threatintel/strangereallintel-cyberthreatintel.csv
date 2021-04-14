@@ -2,7 +2,7 @@
 # type: domain, ip
 # ioc: indicator
 #"type","ioc","description","date_added"
-domain,http://apibazaarvoice.com,Magecart URL delivery,2020-05-31
+domain,apibazaarvoice.com/bv.js,Magecart URL delivery,2020-05-31
 domain,apibazaarvoice.com,Magecart Domain C2,2020-05-31
 ip,104.248.46.244,Magecart IP C2,2020-05-31
 domain,https://www.happykid.in/image/catalog/d_blog_module/review/jjs.js,Magecart URL delivery,2020-05-31
@@ -40,7 +40,6 @@ domain,http://95.179.252.217/load.php,url delievery,2020-04-27
 domain,http://136.244.67.59/web/index.php?r=cmd,url C2,2020-04-27
 domain,http://95.179.252.217/web/index.php?r=cmd,url C2,2020-04-27
 domain,schedule.winupdate.workers.dev,domain requested,2020-04-27
-ip,
 ip,95.179.252.217,IP C2,2020-04-27
 ip,136.244.67.59,IP C2,2020-04-27
 ip,104.31.70.75,IP requested,2020-04-27
