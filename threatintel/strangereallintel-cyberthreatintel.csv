@@ -40,7 +40,6 @@ domain,http://95.179.252.217/load.php,url delievery,2020-04-27
 domain,http://136.244.67.59/web/index.php?r=cmd,url C2,2020-04-27
 domain,http://95.179.252.217/web/index.php?r=cmd,url C2,2020-04-27
 domain,schedule.winupdate.workers.dev,domain requested,2020-04-27
-ip,
 ip,95.179.252.217,IP C2,2020-04-27
 ip,136.244.67.59,IP C2,2020-04-27
 ip,104.31.70.75,IP requested,2020-04-27
