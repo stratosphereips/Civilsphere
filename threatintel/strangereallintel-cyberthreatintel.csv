@@ -2,14 +2,11 @@
 # type: domain, ip
 # ioc: indicator
 #"type","ioc","description","date_added"
-domain,apibazaarvoice.com,Magecart URL delivery,2020-05-31
 domain,apibazaarvoice.com,Magecart Domain C2,2020-05-31
 ip,104.248.46.244,Magecart IP C2,2020-05-31
-domain,www.happykid.in,Magecart URL delivery,2020-05-31
 domain,happykid.in, Magecart Domain delivery,2020-05-31
 ip,206.189.136.20,Magecart IP delivery,2020-05-31
 ip,45.197.141.250,Magecart IP C2,2020-05-31
-domain,rumetonare.com,Dridex URL delievery,2020-05-01
 domain,rumetonare.com,Dridex Domain delievery,2020-05-01
 ip,84.38.180.4,Dridex IP requested,2020-05-01
 domain,nurofenpanadol.su,Neutrino Domain C2,2020-02-08
@@ -18,7 +15,6 @@ domain,alors.deepdns.cryptostorm.net,Neutrino Domain C2,2020-02-08
 domain,onyx.deepdns.cryptostorm.net,Neutrino Domain C2,2020-02-08
 domain,ns1.any.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
 domain,ns1.random.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
-domain,ns2.random.dns.d0wn.biz,Neutrino Domain C2,2020-02-08
 domain,civet.ziphaze.com,Neutrino Domain C2,2020-02-08
 domain,anyone.dnsrec.meo.ws,Neutrino Domain C2,2020-02-08
 domain,ist.fellig.org,Neutrino Domain C2,2020-02-08
@@ -38,28 +34,14 @@ ip,190.10.8.23,Terraloader IP C2,2020-04-12
 domain,d27qdop2sa027t.cloudfront.net, Terraloader Domain C2,2021-03-27
 ip,95.179.252.217,url delievery,2020-04-27
 ip,136.244.67.59,url C2,2020-04-27
-ip,95.179.252.217,url C2,2020-04-27
 domain,schedule.winupdate.workers.dev,domain requested,2020-04-27
-ip,95.179.252.217,IP C2,2020-04-27
-ip,136.244.67.59,IP C2,2020-04-27
 ip,104.31.70.75,IP requested,2020-04-27
-domain,softcheck3u.biz,Domain C2,2020-05-07
 ip,51.83.171.37,IP C2,2020-05-07
 domain,softcheck3u.biz,URL C2,2020-05-07
-ip,51.83.171.37,IP C2,2020-05-05
-domain,softcheck3u.biz,Domain C2,2020-05-05
-domain,softcheck3u.biz,URL C2,2020-05-05
-domain,softcheck3u.biz,URL C2,2020-05-05
-ip,51.83.171.37,IP C2,2020-05-05
-domain,softcheck3u.biz,Domain C2,2020-05-05
-ip,51.83.171.37,IP C2,2020-05-05
-domain,softcheck3u.biz,Domain C2,2020-05-05
-ip,54.36.185.104,IP C2,2020-02-25
 ip,54.36.185.104,IP C2,2019-12-02
 ip,45.88.77.34,IP C2,2019-09-06
 domain,sissj.space,Domain C2,2019-09-06
 domain,sissj.site,Domain C2,2019-04-27
-ip,54.36.185.104,IP C2,2019-04-27
 domain,z2uymda1mtk.top,Domain C2,2020-06-15
 domain,documento.smarterrealestateinvesting.com,Domain delivery,2020-06-15
 ip,31.214.157.27,IP delivery,2020-06-15
@@ -67,7 +49,6 @@ ip,185.219.221.102,IP C2,2020-06-15
 domain,documento.selltokengarffhonda.com,Domain delivery ,2020-06-18
 ip,194.76.224.223,Domain delivery,2020-06-18
 ip,217.8.117.29,IP C2,2020-09-07
-ip,217.8.117.29,URL delivery,2020-09-07
 ip,167.88.180.148,Chinese APT campaign IP C2,2020-08-19
 domain,www.apple-net.com,Chinese APT campaign Domain C2,2020-08-19
 domain,en-content.com,Donot Domain requested,2019-09-17
@@ -79,19 +60,10 @@ domain,plug.msplugin.icu,Donot Domain requested,2019-09-17
 domain,mscheck.icu,Donot Domain requested,2019-09-17
 domain,sdn.host,Donot Domain requested,2019-09-17
 ip,178.62.186.233,Donot IP requested,2019-09-17
-ip,178.62.188.63,Donot IP requested,2019-09-17
 ip,156.67.222.128,Donot IP requested,2019-09-17
 ip,159.89.104.38,Donot IP requested,2019-09-17
 ip,157.230.213.81,Donot IP requested,2019-09-17
 ip,146.185.139.134,Donot IP requested,2019-09-17
-domain,en-content.com,Donot HTTP/HTTPS requests,2019-09-17
-domain,bsodsupport.icu,Donot HTTP/HTTPS requests,2019-09-17
-domain,cloud-storage-service.com,Donot HTTP/HTTPS requests,2019-09-17
-domain,noitfication-office-client.890m.com,Donot HTTP/HTTPS requests,2019-09-17
-domain,plug.msplugin.icu,Donot HTTP/HTTPS requests,2019-09-17
-domain,mscheck.icu,Donot HTTP/HTTPS requests,2019-09-17
-domain,sdn.host,Donot HTTP/HTTPS requests,2019-09-17
-domain,account-support.site,Donot HTTP/HTTPS requests,2019-09-17
 domain,support.worldupdate.live,Donot Domain C2,2019-09-17
 domain,account-support.site,Donot Domain C2,2019-09-17
 domain,skillsnew.top,Donot Domain C2,2019-09-17
@@ -108,13 +80,11 @@ ip,178.62.190.33, SideWinder IP C2,2019-11-10
 domain,trans-can.net, SideWinder Domain C2,2019-11-10
 ip,185.225.17.40,SideWinder IP C2,2019-12-25
 domain,ap1-acl.net,SideWinder Domain C2,2019-12-25
-ip,213.227.155.25, APT33 IP requested,2019-11-16
 ip,213.227.155.25, APT33 URL requested,2019-11-16
 ip,185.244.149.202,Muddywater IP C2,2020-06-02
 ip,185.82.202.70,Muddywater IP C2,2020-06-10
 ip,185.106.122.72,Muddywater IP C2,2020-06-16
 ip,185.106.122.78,Muddywater URL C2,2020-06-16
-ip,185.82.202.66,Muddywater IP C2,2020-06-25
 ip,185.82.202.66,Muddywater URL C2,2020-06-25
 domain,mydownload-202001.c1.biz,Konni Domain C2,2020-04-23
 ip,185.176.43.92,Konni IP C2,2020-04-23
@@ -122,11 +92,9 @@ domain,mybobo.mygamesonline.org,Kimsuky URL delivery,2020-03-20
 domain,crphone.mireene.com,Kimsuky URL C2,2020-03-20
 domain,astedams.it,Lazarus Domain C2,2020-05-05
 ip,51.77.65.154,Lazarus IP C2,2020-05-05
-domain,www.astedams.it,Lazarus URL C2,2020-05-05
 domain,www.sanlorenzoyacht.com,Lazarus URL delievery,2020-05-05
 domain,elite4print.com,Lazarus Domain C2,2020-05-05
 ip,192.169.250.185,Lazarus IP C2,2020-05-05
-domain,www.elite4print.com,Lazarus URL C2,2020-05-05
 domain,od.lk,Lazarus URL delievery,2020-05-05
 domain,juliesoskin.com,Lazarus CES2020 Domain C2,2019-10-23
 domain,necaled.com,Lazarus CES2020 Domain C2,2019-10-23
@@ -137,9 +105,6 @@ ip,83.169.17.240,Lazarus CES2020 IP C2,2019-10-23
 domain,curiofirenze.com,Lazarus Domain C2,2019-10-23
 ip,193.70.64.163,Lazarus IP C2,2019-10-23
 domain,crabbedly.club,Lazarus HTTP/HTTPS requests,2019-10-23
-domain,craypot.live,Lazarus HTTP/HTTPS requests,2019-10-23
-domain,indagator.club,Lazarus HTTP/HTTPS requests,2019-10-23
-domain,crabbedly.club,Lazarus Domain C2,2019-10-23
 domain,craypot.live,Lazarus Domain C2,2019-10-23
 domain,indagator.club,Lazarus Domain C2,2019-10-23
 ip,37.72.175.226,Lazarus IP C2,2019-10-23
@@ -152,78 +117,46 @@ ip,67.199.248.14,Gorgon IP requested,2019-09-09
 ip,172.217.22.97,Gorgon IP requested,2019-09-09
 ip,67.199.248.10,Gorgon IP requested,2019-09-09
 ip,67.199.248.11,Gorgon IP requested,2019-09-09
-ip,216.170.126.139,Gorgon IP C2,2019-09-09
-domain,bitly.com,Gorgon Domain requested,2019-09-09
 domain,sxasxasxssaxxsasxasx.blogspot.com,Gorgon Domain requested,2019-09-09
-domain,pastebin.com,Gorgon Domain requested,2019-09-09
-ip,216.170.126.139,Gorgon HTTP/HTTPS requests,2019-09-09
 domain,xaasxasxasx.blogspot.com,Gorgon domain requested,2019-08-23
 domain,resources.blogblog.com,Gorgon domain requested,2019-08-23
-domain,pastebin.com,Gorgon domain requested,2019-08-23
-ip,67.199.248.14,Gorgon ip requested,2019-08-23
 ip,67.199.248.15,Gorgon ip requested,2019-08-23
 ip,104.20.208.21,Gorgon ip requested,2019-08-23
-ip,176.57.215.22,Gorgon IP C2,2019-08-23
-domain,www.ichoubyou.net,Gorgon HTTP/HTTPS requests,2019-08-23
-domain,www.grupomsi.com,Gorgon HTTP/HTTPS requests,2019-08-23
-domain,www.theaterloops.com,Gorgon HTTP/HTTPS requests,2019-08-23
 domain,www.theaterloops.com,Gorgon HTTP/HTTPS requests,2019-08-23
 domain,www.sukfat.com,2019-08-23
 domain,www.hongmenwenhua.com,Gorgon Domain C2,2019-08-23
 domain,www.ichoubyou.net,Gorgon Domain C2,2019-08-23
 domain,www.grupomsi.com,Gorgon Domain C2,2019-08-23
-domain,www.sukfat.com,Gorgon Domain C2,2019-08-23
-domain,www.theaterloops.com,Gorgon Domain C2,2019-08-23
 ip,210.188.195.164,Gorgon IP C2,2019-08-23
 ip,23.20.239.12,Gorgon IP C2,2019-08-23
 ip,185.68.16.122,Gorgon IP C2,2019-08-23
 ip,199.192.23.220,Gorgon IP C2,2019-08-23
 ip,198.46.177.73,Transparent Tribe IP C2,2020-01-22
-ip,176.57.215.22,IP C2,2019-08-06
-domain,shell-create.ddns.net,URL request,2019-08-06
 domain,shell-create.ddns.net,Domain C2,2019-08-06
-domain,list-sert.ddns.net,Domain requested,2019-09-09
 domain,libre-templates.ddns.net,domain requested,2019-09-09
-ip,141.8.192.153,ip requested,2019-09-09
-ip,188.225.24.161,IP C2,2019-08-16
-domain,document-listing.ddns.net,URL request,2019-08-16
 domain,document-listing.ddns.net,Domain C2,2019-08-16
 ip,176.57.215.22,Gamaredon iP C2,2019-08-06
-domain,shell-create.ddns.net, Gamaredon URL request,2019-08-06
 domain,shell-create.ddns.net, Gamaredon Domain C2,2019-08-06
 domain,list-sert.ddns.net, Gamaredon Domain requested,2019-09-09
 ip,141.8.192.153,Gamaredon ip requested,2019-09-09
 ip,188.225.24.161,Gamaredon iP C2,2019-08-16
-domain,document-listing.ddns.net,Gamaredon URL request,2019-08-16
-domain,Document-listing.ddns.net, Gamaredon Domain C2,2019-08-16
-domain,moviedvdpower.com,FIN7 Domain requested,2019-10-16
 ip,31.3.232.105,FIN7 IP requested,2019-10-16
 ip,185.231.153.21,FIN7 IP C2,2019-10-16
 domain,moviedvdpower.com,FIN7 Domain C2,2019-10-16
-ip,31.3.232.105,FIN7 IP C2,2019-10-16
 domain,adamnews.for.ug,domain requested,﻿2019-08-26
 domain,israanews.zz.com.ve,domain requested,2019-08-26
 domain,mmksba.dyndns.org,Domain C2,2019-08-26
 domain,webhoptest.webhop.info,Domain C2,2019-08-26
-domain,mmksba.simple-url.com,Domain C2,2019-08-26
 ip,85.17.26.65,IP requested,2019-08-26
 ip,66.154.103.156,IP C2,2019-08-26
 ip,37.48.111.5,IP C2,2019-08-26
-domain,israanews.zz.com.ve,HTTP/HTTPS requests,2019-08-26
-domain,adamnews.for.ug,HTTP/HTTPS requests,2019-08-26
-domain,webhoptest.webhop.info,HTTP/HTTPS requests,2019-08-26
 domain,mmksba.simple-url.com,HTTP/HTTPS requests,2019-08-26
-domain,mmksba.dyndns.org,HTTP/HTTPS requests,2019-08-26
 domain,2813.noip.me,Domain C2,2019-10-01
 domain,tcoolsoul.com,Domain C2,2019-10-01
 domain,ip-api.com,Domain requested,2019-10-01
 domain,brothersjoy.nl,Domain requested,2019-10-01
 domain,doughnut-snack.live,Domain requested,2019-10-01
 domain,pluginsrv1.duckdns.org,HTTP/HTTPS requests,2019-10-01
-domain,ip-api.com,HTTP/HTTPS requests,2019-10-01
-domain,www.tcoolsoul.com,HTTP/HTTPS requests,2019-10-01
-domain,doughnut-snack.live,HTTP/HTTPS requests,2019-10-01
-ip,185.247.228.159,1280x720,2019-10-01
 ip,79.134.225.100,IP requested,2019-10-01
 ip,192.169.69.25,IP requested,2019-10-01
 ip,172.245.14.10,IP requested,2019-10-01
@@ -234,11 +167,9 @@ ip,18.194.14.44,TA505 IP Requested,2019-10-04
 ip,183.111.138.244,TA505 IP Requested,2019-10-04
 ip,185.33.87.27,TA505 IP Requested,2019-10-04
 ip,192.99.211.205,TA505 IP Requested,2019-10-04
-domain,chogoon.com,TA505 Domain Requested,2019-10-04
-domain,chogoon.com,TA505 chogoon.com/srt/gedp4,2019-10-04
+domain,chogoon.com,TA505 URL requested,2019-10-04
 domain,windows-wsus-en.com,TA505 URL Requested,2019-10-04
 domain,office365-update-eu.com,TA505 Domain C2,2019-10-04
-domain,windows-wsus-en.com,TA505 Domain C2,2019-10-04
 ip,162.125.66.1,TA505 IP Requested,2019-10-04
 ip,172.217.16.141,TA505 IP Requested,2019-10-04
 ip,45.63.11.216,TA505 IP Requested,2019-10-04
@@ -247,10 +178,8 @@ ip,96.44.166.189,TA505 IP Requested,2019-10-04
 domain,dropbox-download.com,TA505 Domain Requested,2019-10-04
 domain,maq.com.pk,Bitter Domain requested,2019-08-27
 ip,203.124.43.227,Bitter IP requested,2019-08-27
-domain,maq.com.pk,Bitter HTTP/HTTPS requests,2019-08-27
 domain,onlinejohnline99.org,Bitter Domain C2,2019-08-27
 ip,93.123.73.193,Bitter IP C2,2019-08-27
-ip,93.123.73.198,Bitter IP C2,2019-08-27
 domain,cloudfiles.club,DangerousPassword Domain delivery,2020-04-02
 domain,msupdatepms.xyz,DangerousPassword Domain delievry,2020-04-02
 ip,88.204.166.59,DangerousPassword IP C2,2020-04-02
