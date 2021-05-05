@@ -123,7 +123,7 @@ domain,resources.blogblog.com,Gorgon domain requested,2019-08-23
 ip,67.199.248.15,Gorgon ip requested,2019-08-23
 ip,104.20.208.21,Gorgon ip requested,2019-08-23
 domain,www.theaterloops.com,Gorgon HTTP/HTTPS requests,2019-08-23
-domain,www.sukfat.com,2019-08-23
+domain,www.sukfat.com,2019-08-23,Gorgon HTTP/HTTPS requests,2019-08-23
 domain,www.hongmenwenhua.com,Gorgon Domain C2,2019-08-23
 domain,www.ichoubyou.net,Gorgon Domain C2,2019-08-23
 domain,www.grupomsi.com,Gorgon Domain C2,2019-08-23
@@ -143,7 +143,7 @@ ip,188.225.24.161,Gamaredon iP C2,2019-08-16
 ip,31.3.232.105,FIN7 IP requested,2019-10-16
 ip,185.231.153.21,FIN7 IP C2,2019-10-16
 domain,moviedvdpower.com,FIN7 Domain C2,2019-10-16
-domain,adamnews.for.ug,domain requested,﻿2019-08-26
+domain,adamnews.for.ug,domain requested,2019-08-26
 domain,israanews.zz.com.ve,domain requested,2019-08-26
 domain,mmksba.dyndns.org,Domain C2,2019-08-26
 domain,webhoptest.webhop.info,Domain C2,2019-08-26
