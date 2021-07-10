@@ -638,3 +638,11 @@ ip,149.28.134.209,The-Constant-Company-LLC,2020/6/30
 domain,colunm.tk,BV-Dot-TK,2020/6/30
 domain,flushdata.1topspy.com,1TopSpy::stalkerware::https://github.com/Te-k/stalkerware-indicators
 domain,1topspy.com,1TopSpy::stalkerware::https://github.com/Te-k/stalkerware-indicators
+domain,alltracker.org,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
+domain,alltracker.de,AllTracker::stalkerware
+domain,alltracker.su,AllTracker::stalkerware
+domain,alltracker.russ.city,AllTracker::stalkerware
+domain,alltracker-family.com,AllTracker::stalkerware
+domain,staging-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
+domain,6-dot-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
+domain,4-dot-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
