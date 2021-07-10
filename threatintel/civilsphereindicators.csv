@@ -652,4 +652,12 @@ domain,androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/s
 domain,www.installam.com,AndroidMonitor::stalkerware,2021/07/10
 domain,installam.com,AndroidMonitor::stalkerware,2021/07/10
 ip,193.70.102.228,AndroidMonitor::stalkerware,2021/07/10
-
+domain,catwatchful.com,CatWatchful::parentalcontrol::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+ip,45.114.224.147,CatWatchful::parentalcontrol::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+ip,162.144.75.253,CatWatchful::parentalcontrol::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,catwatchful.net,CatWatchful::parentalcontrol,2021/07/10
+domain,es.catwatchful.net,CatWatchful::parentalcontrol,2021/07/10
+domain,catwatchful.online,CatWatchful::parentalcontrol,2021/07/10
+domain,catwatchful-e03b8.firebaseapp.com,CatWatchful::parentalcontrol,2021/07/10
+domain,catwatchful-e03b8-2.firebaseio.com,CatWatchful::parentalcontrol,2021/07/10
+domain,cp.catwatchful.com,CatWatchful::parentalcontrol,2021/07/10
