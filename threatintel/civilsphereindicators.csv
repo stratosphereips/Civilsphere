@@ -3,7 +3,7 @@
 # type: domain, ip
 # ioc: indicator
 # description: name::reference
-#"type","ioc","description","date_added"
+#type,ioc,description,date_added
 domain,gcloud.zoolz.com,mobile::insecure::https://play.google.com/store/apps/details?id=com.genie9.gcloudbackup,2020/11/14
 domain,blog.zoolz.com,mobile::insecure::https://play.google.com/store/apps/details?id=com.genie9.gcloudbackup,2020/11/14
 domain,www.zoolz.com,mobile::insecure::https://play.google.com/store/apps/details?id=com.genie9.gcloudbackup,2020/11/14
@@ -636,20 +636,20 @@ ip,45.61.136.199,BL-Networks,2020/6/30
 ip,185.118.166.66,Chelyabinsk-Signal-LLC,2020/6/30
 ip,149.28.134.209,The-Constant-Company-LLC,2020/6/30
 domain,colunm.tk,BV-Dot-TK,2020/6/30
-domain,flushdata.1topspy.com,1TopSpy::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,1topspy.com,1TopSpy::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,alltracker.org,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,alltracker.de,AllTracker::stalkerware
-domain,alltracker.su,AllTracker::stalkerware
-domain,alltracker.russ.city,AllTracker::stalkerware
-domain,alltracker-family.com,AllTracker::stalkerware
-domain,staging-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,6-dot-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,4-dot-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,server.androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,www.androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators
-domain,www.installam.com,AndroidMonitor::stalkerware
-domain,installam.com,AndroidMonitor::stalkerware
-ip,193.70.102.228,AndroidMonitor::stalkerware
+domain,flushdata.1topspy.com,1TopSpy::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,1topspy.com,1TopSpy::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,alltracker.org,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,alltracker.de,AllTracker::stalkerware,2021/07/10
+domain,alltracker.su,AllTracker::stalkerware,2021/07/10
+domain,alltracker.russ.city,AllTracker::stalkerware,2021/07/10
+domain,alltracker-family.com,AllTracker::stalkerware,2021/07/10
+domain,staging-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,6-dot-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,4-dot-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,server.androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,www.androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/10
+domain,www.installam.com,AndroidMonitor::stalkerware,2021/07/10
+domain,installam.com,AndroidMonitor::stalkerware,2021/07/10
+ip,193.70.102.228,AndroidMonitor::stalkerware,2021/07/10
 
