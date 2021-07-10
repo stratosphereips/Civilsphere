@@ -1,6 +1,6 @@
 # Feed created for the Stratosphere Linux IPS
 # Mantainer: Veronica Valeros <vero.valeros@gmail.com>
-# type: domain, ip
+# type: can be domain or ip
 # ioc: indicator
 # description: name::reference
 #type,ioc,description,date_added
