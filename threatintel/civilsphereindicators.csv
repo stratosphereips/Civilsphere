@@ -646,3 +646,10 @@ domain,alltracker-family.com,AllTracker::stalkerware
 domain,staging-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
 domain,6-dot-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
 domain,4-dot-all-tracker.appspot.com,AllTracker::stalkerware::https://github.com/Te-k/stalkerware-indicators
+domain,server.androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators
+domain,www.androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators
+domain,androidmonitor.com,AndroidMonitor::stalkerware::https://github.com/Te-k/stalkerware-indicators
+domain,www.installam.com,AndroidMonitor::stalkerware
+domain,installam.com,AndroidMonitor::stalkerware
+ip,193.70.102.228,AndroidMonitor::stalkerware
+
