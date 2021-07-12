@@ -690,3 +690,13 @@ domain,help.copy9.com,copy9::stalkerware,2021/07/10
 domain,mobilespycopy9.blogspot.com,copy9::stalkerware,2021/07/11
 domain,ddiutilities.com,ddutilities::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/12/12
 domain,secure.ddiutilities.com,ddutilities::stalkerware,2021/12/12
+domain,logger.mobi,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+domain,account.logger.mobi,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+domain,97.logger.mobi,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+domain,beta-api.logger.mobi,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+domain,beta.logger.mobi,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+domain,ps97mailer.logger.mobi,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+ip,172.67.81.216,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+ip,104.25.28.15,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+ip,104.25.29.15,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
+domain,dev.logger.mobi,easylogger::stalkerware,2021/07/12
