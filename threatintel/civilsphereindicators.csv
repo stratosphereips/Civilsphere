@@ -700,3 +700,11 @@ ip,172.67.81.216,easylogger::stalkerware::https://github.com/Te-k/stalkerware-in
 ip,104.25.28.15,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
 ip,104.25.29.15,easylogger::stalkerware::https://github.com/Te-k/stalkerware-indicators,2021/07/12
 domain,dev.logger.mobi,easylogger::stalkerware,2021/07/12
+domain,trackmyfone.com,trackmyphone::stalkerware,2021/07/12
+domain,www.trackmyfone.com,trackmyphone::stalkerware,2021/07/12
+domain,cp.trackmyfone.com,trackmyphone::stalkerware,2021/07/12
+domain,demo.trackmyfone.com,trackmyphone::stalkerware,2021/07/12
+domain,beta.trackmyfone.com,trackmyphone::stalkerware,2021/07/12
+domain,cs.trackmyfone.com,trackmyphone::stalkerware,2021/07/12
+domain,qacp.trackmyfone.com,trackmyphone::stalkerware,2021/07/12
+domain,status.trackmyfone.com,trackmyphone::stalkerware,2021/07/12
