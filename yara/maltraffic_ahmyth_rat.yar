@@ -7,7 +7,7 @@ rule MALTRAFFIC_AhMyth_RAT_202107 {
       pcap1 = "https://mcfp.felk.cvut.cz/publicDatasets/Android-Mischief-Dataset/AndroidMischiefDataset_v2/RAT07_AhMyth/RAT07_AhMyth.pcap"
    strings:
       $s1 = { ?? ?? 5B 22 6F 72 64 65 72 22 2C 7B 22 ?? }
-      $s2 = { 22 78 30 30 30 }
+      $s2 = { 22 3A 22 78 30 30 30 }
    condition:
       any of them
 }
