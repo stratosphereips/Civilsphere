@@ -2568,3 +2568,4 @@ ip,94.158.245.113,avast::ParrotTDS::https://github.com/avast/ioc/blob/master/Par
 ip,94.158.247.100,avast::ParrotTDS::https://github.com/avast/ioc/blob/master/ParrotTDS/network.txt,2022/04/18
 ip,154.38.242.14,avast::ParrotTDS::https://github.com/avast/ioc/blob/master/ParrotTDS/network.txt,2022/04/18
 ip,199.247.3.55,avast::ParrotTDS::https://github.com/avast/ioc/blob/master/ParrotTDS/network.txt,2022/04/18
+domain,blackbeekey.com,cyble::spyware::https://blog.cyble.com/2022/09/05/spyware-campaign-targeting-the-uyghur-community,2022/09/05
